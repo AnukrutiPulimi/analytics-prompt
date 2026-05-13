@@ -1,5 +1,7 @@
 {
-  "ace": "",
-  "dpl": "",
-  "pepco": ""
+  "utilities": {
+    "PEPCO": "https://lookerstudio.google.com/reporting/42b6fc60-ffc5-4e41-b61f-eaa40bf1292b",
+    "DPL": "https://lookerstudio.google.com/reporting/f3de36bf-926f-408e-ad6c-08e35ffc4f82/page/p_cvp3yo6wnd",
+    "ACE": "https://lookerstudio.google.com/reporting/9d86907f-9523-454e-84bc-59dc083fc81c/page/p_85r3deornd"
+  }
 }

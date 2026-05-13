@@ -1,8 +1,8 @@
 {
-  "numbers_page": "",
-  "table_rows": "",
-  "date_column": "",
-  "offer_column": "",
-  "complete_column": "",
-  "completion_rate_column": ""
+  "sidebar_numbers_web": "",
+  "sidebar_numbers_android": "",
+  "sidebar_numbers_ios": "",
+  "table_selector": "",
+  "row_selector": "",
+  "cell_selector": ""
 }
